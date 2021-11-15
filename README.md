@@ -1,11 +1,18 @@
-Title: 
+                                                                    Title: 
+                                                                    
 National Park System Website
 
-List of technologies used: HTML, CSS, JS, Weather API, Node.JS
+                                                        List of technologies used: 
+                                                        
+HTML, CSS, JS, Weather API, Node.JS
 
-Description: This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting.
+                                                                  Description: 
+                                                                  
+This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting.
 
-Usage Instructions: Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. On the Search Results page, you will find a list of parks and national reserves that best fit your search criteria. Clicking on any one of these result cards will trigger the current weather in that location to the right of your list, as well as a current webcam image if one exists at that park. Within each result card, there will be a link to the park's NPS webpage, as well as a link to Google Maps showing the geographical location of that park's address should you need to see it.
+                                                              Usage Instructions: 
+                                                              
+Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. On the Search Results page, you will find a list of parks and national reserves that best fit your search criteria. Clicking on any one of these result cards will trigger the current weather in that location to the right of your list, as well as a current webcam image if one exists at that park. Within each result card, there will be a link to the park's NPS webpage, as well as a link to Google Maps showing the geographical location of that park's address should you need to see it.
 
                                                                 Demo: 
 
@@ -15,10 +22,12 @@ Usage Instructions: Select a state of interest from the first dropdown on the ma
 ![project-one-weather and webcam](https://user-images.githubusercontent.com/87610840/141856861-8952340a-a51f-486c-8be5-b918423357f1.JPG)
 
 
-Licenses: None
+                                                              Licenses: 
 
-Collaborators: 
+None
+
+                                                             Collaborators: 
 Matt Bow
 Anthony Korneagay
-Basu Khanal
+Basu Khanal: bkhanal87@gmail.com
 Susie Skorncika
