@@ -8,7 +8,7 @@ National Park System Website
 
 -[Technologies](#Technologies)
 
--[Usage](#Usage)
+-[Usage Instruction](#Usage-Instruction)
 
 -[Demo](#Demo)
 
@@ -56,7 +56,11 @@ See repository here:  (https://github.com/mdbow22/Project-One)
 **Collaborators**
 
 **Main Branch**: Matt Bow GitHub Repo (https://github.com/mdbow22)
+
 **Additional contributors**: Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
+
                              Basu Khanal GitHub Repo (https://github.com/bkhanal87)
+                             
                              Susie Skorncika GitHub Repo (https://github.com/Su5ieS
+                             
 **Note**: Also, special thanks to Slavic Andreev, Instructor, and Tim Lukens, Teacher Assistant for all their assistance with this project.
