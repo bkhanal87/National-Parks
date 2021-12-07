@@ -3,13 +3,20 @@
 National Park System Website
 
 **Table of Contents**
-Description
-Technologies
-Usage
-Demo
-Licenses
-Installation
-Collaborators
+
+-[Description](#Description)
+
+-[Technologies](#Technologies)
+
+-[Usage](#Usage)
+
+-[Demo](#Demo)
+
+-[Licenses](#Licenses)
+
+-[Installation](#Installation)
+
+-[Collaborators](#Collaborators)
 
 
 **Description**
@@ -18,11 +25,15 @@ This website was designed to give users an easy way to search for national parks
 
 **Technologies**
                                                         
-HTML, CSS, JS, Weather API, Node.JS
+HTML, CSS, JS, Weather API, Node.JS, Express.JS
 
 **Usage Instructions**
                                                               
-Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. On the Search Results page, you will find a list of parks and national reserves that best fit your search criteria. Clicking on any one of these result cards will trigger the current weather in that location to the right of your list, as well as a current webcam image if one exists at that park. Within each result card, there will be a link to the park's NPS webpage, as well as a link to Google Maps showing the geographical location of that park's address should you need to see it.
+*Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. 
+
+*On the Search Results page, you will find a list of parks and national reserves that best fit your search criteria. Clicking on any one of these result cards will trigger the current weather in that location to the right of your list, as well as a current webcam image if one exists at that park. 
+
+*Within each result card, there will be a link to the park's NPS webpage, as well as a link to Google Maps showing the geographical location of that park's address should you need to see it.
 
 **Demo** 
 
@@ -44,7 +55,8 @@ See repository here:  (https://github.com/mdbow22/Project-One)
 
 **Collaborators**
 
-Matt Bow
-Anthony Korneagay
-Basu Khanal: bkhanal87@gmail.com
-Susie Skorncika
+**Main Branch**: Matt Bow GitHub Repo (https://github.com/mdbow22)
+**Additional contributors**: Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
+                             Basu Khanal GitHub Repo (https://github.com/bkhanal87)
+                             Susie Skorncika GitHub Repo (https://github.com/Su5ieS
+**Note**: Also, special thanks to Slavic Andreev, Instructor, and Tim Lukens, Teacher Assistant for all their assistance with this project.
