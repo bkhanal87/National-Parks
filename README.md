@@ -19,15 +19,15 @@ National Park System Website
 -[Collaborators](#Collaborators)
 
 
-**Description**
+## Description
                                                                   
 This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting.
 
-**Technologies**
+## Technologies
                                                         
 HTML, CSS, JS, Weather API, Node.JS, Express.JS
 
-**Usage Instructions**
+## Usage Instructions
                                                               
 *Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. 
 
@@ -35,7 +35,7 @@ HTML, CSS, JS, Weather API, Node.JS, Express.JS
 
 *Within each result card, there will be a link to the park's NPS webpage, as well as a link to Google Maps showing the geographical location of that park's address should you need to see it.
 
-**Demo** 
+## Demo 
 
 ![project - one](https://user-images.githubusercontent.com/87610840/141856851-2aa1ecb0-b649-4144-b4a7-edee816ab367.JPG)
 ![project-one-state-activity](https://user-images.githubusercontent.com/87610840/141856860-fba9a962-a801-425b-99e1-d3fad6d3cde8.JPG)
@@ -43,17 +43,17 @@ HTML, CSS, JS, Weather API, Node.JS, Express.JS
 ![project-one-weather and webcam](https://user-images.githubusercontent.com/87610840/141856861-8952340a-a51f-486c-8be5-b918423357f1.JPG)
 
 
-**Licenses**                                                              
+## Licenses                                                              
 
 None
 
-**Installation**
+## Installation
 
 See deployed Site here:  (https://mdbow22.github.io/Project-One/)
 
 See repository here:  (https://github.com/mdbow22/Project-One)
 
-**Collaborators**
+## Collaborators
 
 **Main Branch**: 
 
