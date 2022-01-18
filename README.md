@@ -51,7 +51,7 @@ None
 
 See deployed Site here:  (https://bkhanal87.github.io/National-Parks/)
 
-See repository here:  (https://github.com/mdbow22/Project-One)
+See repository here:  (https://github.com/bkhanal87/National-Parks)
 
 ## Collaborators
 
