@@ -49,7 +49,7 @@ None
 
 ## Installation
 
-See deployed Site here:  (https://mdbow22.github.io/Project-One/)
+See deployed Site here:  (https://bkhanal87.github.io/National-Parks/)
 
 See repository here:  (https://github.com/mdbow22/Project-One)
 
