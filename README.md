@@ -1,38 +1,30 @@
-License
+[![license](https://img.shields.io/badge/license-MIT-orange)](https://shields.io)  
 
-**Title** 
+# National-Parks
+                                                                  
+## Table of Contents
 
-Table of 
-                                                                    
-## National Park System Website
-
-**Table of Contents**
-
--[Description](#Description)
-
-Installation
-
--[Usage Instruction](#Usage-Instruction)
-
-
--[Demo](#Demo)
-
--[Licenses](#Licenses)
-
--[Installation](#Installation)
-
--[Collaborators](#Collaborators)
+[Description](#description)  
+[Installation](#installation)
+[Technologies](#technologies)  
+[Usage/Link](#usage/link)  
+[Collaborators](#collaborators)
+[Badges](#badges)
+[How to contribute to the project]
+[Tests](#tests)
 
 
 ## Description
                                                                   
 This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting.
 
+## Installation
+
 ## Technologies
                                                         
 HTML, CSS, JS, Weather API, Node.JS, Express.JS
 
-## Usage Instructions
+## Usage 
                                                               
 *Select a state of interest from the first dropdown on the main page, then select an activity of interest from the second dropdown on the same page, and click the Search button to retrieve an appropriate list of parks from the NPS database. 
 
@@ -47,10 +39,6 @@ HTML, CSS, JS, Weather API, Node.JS, Express.JS
 ![project-one 1](https://user-images.githubusercontent.com/87610840/141856856-06240e2e-2a50-4abf-90ee-3d83b1b97e43.JPG)
 ![project-one-weather and webcam](https://user-images.githubusercontent.com/87610840/141856861-8952340a-a51f-486c-8be5-b918423357f1.JPG)
 
-
-## Licenses                                                              
-
-None
 
 ## Installation
 
@@ -71,5 +59,10 @@ Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
  Basu Khanal GitHub Repo (https://github.com/bkhanal87)
                              
  Susie Skorncika GitHub Repo (https://github.com/Su5ieS
+ 
+ ## Badges
+ 
+ ## Contribution
+ 
+ ## Tests
                              
-**Note**: Also, special thanks to Slavic Andreev, Instructor, and Tim Lukens, Teacher Assistant for all their assistance with this project.
