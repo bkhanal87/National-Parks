@@ -10,7 +10,7 @@
 [Usage/Link](#usage/link)  
 [Collaborators](#collaborators)
 [Badges](#badges)
-[How to contribute to the project]
+[Contribution](#contribution)
 [Tests](#tests)
 
 
