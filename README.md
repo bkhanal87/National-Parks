@@ -32,15 +32,23 @@ GitHub merge conflicts!
 Amazing investment and collaboration within the group
 Creating a tool that has real life value and application
 
+## Directions for future development ##
+Add NPS alerts (danger, closure, caution, and information) posted by parks
+Incorporate Google Maps API with OpenWeather API to display weather maps for each search result.
+Have index page display a random image from the national parks, so it’s different each visit.
+Have the selected park highlight a different color when selected on search results
+
 ## Installation
 
-## Clone Repository ##
-git clone https://github.com/herokuapp/HotSpot.git
- ## Install Dependencies ##
-All NPM packages required for this application (Express, Compression, Mongoose, Lite-Server and Morgan) are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root directory level to install the packages.
+Clone Repository 
+*git clone https://github.com/herokuapp/HotSpot.git
+
+ Install Dependencies
+*All NPM packages required for this application (Express, Compression, Mongoose, Lite-Server and Morgan) are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root directory level to install the packages.
 Ensure you have Node.js installed on your machine. The application will be invoked by entering node server.js in the command line.
-## Start Application ##
-You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
+
+Start Application
+*You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
 
 
 ## Technologies
@@ -79,14 +87,14 @@ Matt Bow GitHub Repo (https://github.com/mdbow22)
 
 **Additional contributors**: 
 
-Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
+ Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
 
  Basu Khanal GitHub Repo (https://github.com/bkhanal87)
                              
  Susie Skorncika GitHub Repo (https://github.com/Su5ieS
  
 ## Breakdown of tasks and roles ##
-Matt: coding fetch requests and displaying them on the results page
+ Matt: coding fetch requests and displaying them on the results page
 Anthony: selecting and adding background img for index page, setting search button on index to send search params to search results page, writing out READ.ME file
 Basu: adding HTML and CSS for index page, writing/enhancing copy for index page
 Susie: wireframing, search results page HTML/css, local storage
