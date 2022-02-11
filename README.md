@@ -9,20 +9,45 @@
 [Technologies](#technologies)  
 [Usage/Link](#usage/link)  
 [Collaborators](#collaborators)
-[Badges](#badges)
-[Contribution](#contribution)
-[Tests](#tests)
-
 
 ## Description
                                                                   
-This website was designed to give users an easy way to search for national parks to see while visiting a state, as well as look for different activities to do while visiting.
+This is an application that allows people to search for National Parks in their state by the activity they want to do and see current weather conditions for that park.
+
+## User Story
+As an outdoor person, I want to be able to plan activity at a National Park based on the weather conditions.
+
+## Features
+
+Visit our website! It is desktop and mobile friendly. Simply choose the state and what activity you’re into and click search. You will be presented with any national parks in the state, link to park’s website, and address that with one click can get you directions to have you on you way! Not sure whether you need an umbrella or a parka… simply select the park and the current weather conditions will be displayed. Now you’re ready to explore the beautiful national park system.
+
+## Motivation for development ##
+
+Currently, you have to search the national parks and the weather separately. The need here is to see the weather for any park in a state and the weather without having to go between sites.
+
+## Challenges ##
+GitHub merge conflicts! 
+
+## Successes ##
+Amazing investment and collaboration within the group
+Creating a tool that has real life value and application
 
 ## Installation
 
+## Clone Repository ##
+git clone https://github.com/herokuapp/HotSpot.git
+ ## Install Dependencies ##
+All NPM packages required for this application (Express, Compression, Mongoose, Lite-Server and Morgan) are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root directory level to install the packages.
+Ensure you have Node.js installed on your machine. The application will be invoked by entering node server.js in the command line.
+## Start Application ##
+You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
+
+
 ## Technologies
                                                         
-HTML, CSS, JS, Weather API, Node.JS, Express.JS
+Materialize CSS framework
+National Park API
+Open Weather API
 
 ## Usage 
                                                               
@@ -60,9 +85,10 @@ Anthony Korneagay GitHub Repo (https://github.com/TKShadowBlade)
                              
  Susie Skorncika GitHub Repo (https://github.com/Su5ieS
  
- ## Badges
- 
- ## Contribution
- 
- ## Tests
+## Breakdown of tasks and roles ##
+Matt: coding fetch requests and displaying them on the results page
+Anthony: selecting and adding background img for index page, setting search button on index to send search params to search results page, writing out READ.ME file
+Basu: adding HTML and CSS for index page, writing/enhancing copy for index page
+Susie: wireframing, search results page HTML/css, local storage
+
                              
